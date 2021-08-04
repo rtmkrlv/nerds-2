@@ -1,7 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Renat Khabirov](https://up.htmlacademy.ru/htmlcss/31/user/1678815).
-* Наставник: `Неизвестно`.
+* Студент: [rtmkrlv](https://github.com/rtmkrlv).
 
 ---
 
